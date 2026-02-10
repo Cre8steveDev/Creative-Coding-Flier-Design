@@ -271,21 +271,21 @@ footer a {
   }
 
   .content-image {
-    top: 7.4rem;
+    top: 8.3rem;
     scale: 200%;
   }
 
   .cta-box {
-    padding: 5px;
-    font-size: 7px;
+    padding: 3px;
+    font-size: 6px;
   }
 
   .offering-list {
-    padding: 6px;
-    font-size: 7px;
+    padding: 3px;
+    font-size: 5px;
 
     h3 {
-      font-size: 7px;
+      font-size: 5px;
     }
   }
 
@@ -295,13 +295,13 @@ footer a {
     }
 
     p {
-      font-size: 8px;
+      font-size: 6px;
     }
   }
 
   .author-contact-detail-box {
     p {
-      font-size: 10px;
+      font-size: 8px;
     }
   }
 
