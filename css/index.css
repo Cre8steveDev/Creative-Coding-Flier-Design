@@ -265,24 +265,28 @@ footer a {
   }
 
   .bottom-title {
-    font-size: 5rem;
+    font-size: 3.5rem;
     line-height: 0.9;
     text-align: right;
   }
 
   .content-image {
-    top: 11.85rem;
-    scale: 220%;
+    top: 7.4rem;
+    scale: 200%;
   }
 
   .cta-box {
     padding: 5px;
-    font-size: 9px;
+    font-size: 7px;
   }
 
   .offering-list {
-    padding: 12px;
+    padding: 6px;
     font-size: 7px;
+
+    h3 {
+      font-size: 7px;
+    }
   }
 
   .author-detail-box {
@@ -302,7 +306,7 @@ footer a {
   }
 
   .what-to-do {
-    font-size: 9px;
+    font-size: 7px;
     transform: translateY(-30px);
   }
 }
