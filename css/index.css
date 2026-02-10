@@ -18,12 +18,21 @@
 
 body {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100dvh;
   background: radial-gradient(#0b0576, #05023c);
   background-color: #090649;
   cursor: default;
+}
+
+aside a {
+  color: white;
+  text-decoration: none;
+  font-size: 12px;
+  letter-spacing: 2px;
+  font-weight: 200;
 }
 
 /* Main Container to hold flier */
